@@ -4,8 +4,8 @@ In this project, the distribution of galaxies in the SDSS data is explored. SDSS
 
 Three classification methods are discussed to identify their differences in interpretability and viability.
 
-Tableau Vizualization avaliable ![Here](https://public.tableau.com/app/profile/naolkeb/viz/Astro_SDSS_Visualization/SDSSColorVisualization)
- and ![Here](https://public.tableau.com/app/profile/naolkeb/viz/Astro_SDSS_Visualization_2/DecisionBoundaryonData)
+Tableau Vizualization avaliable [Here](https://public.tableau.com/app/profile/naolkeb/viz/Astro_SDSS_Visualization/SDSSColorVisualization)
+ and [Here](https://public.tableau.com/app/profile/naolkeb/viz/Astro_SDSS_Visualization_2/DecisionBoundaryonData)
 
 ![sdss](https://i.imgur.com/0v4j4Xy.jpg)
 
